@@ -1,4 +1,6 @@
 # Weather Dashboard
+## Live URL
+https://maitradebasis.github.io/Weatherdashboard-API/
 ## Description
 This project is a weather dashboard that allows users to search for cities and view current and future weather conditions. It retrieves weather data from the OpenWeatherMap API and dynamically updates the HTML and CSS to display the weather information.
 
